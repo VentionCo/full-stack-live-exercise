@@ -17,7 +17,7 @@ This template has the following main dependencies:
 ---
 
 ### Instalation
-1. Clone the repo: `https://github.com/marceloaugusto80/react-ssr-express.git`
+1. Clone the repo: `https://github.com/VentionCo/full-stack-live-exercise`
 2. Install dependencies: 
 ``` bash
 $ npm install
